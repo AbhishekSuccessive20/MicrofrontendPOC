@@ -5,11 +5,11 @@ on:
     branches:
       - master
     paths:
-      - 'packages/crud/**'
+      - 'packages/react-hooks-master/**'
 
 defaults:
   run:
-    working-directory: packages/crud
+    working-directory: packages/react-hooks-master
 
 jobs:
   build:
