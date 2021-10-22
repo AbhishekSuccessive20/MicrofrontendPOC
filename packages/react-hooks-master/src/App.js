@@ -44,7 +44,7 @@ const App = () => {
 
 	return (
 		<div className="container">
-			<h1>Crud App </h1>
+			<h1>Crud Application </h1>
 			<div className="flex-row">
 				<div className="flex-large">
 					{editing ? (
