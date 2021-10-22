@@ -1,8 +1,8 @@
 import React from 'react'
 import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
 
-import Login from 'login_remote/App';
-import CRUD from 'crud_remote/App';
+import Login from './components/LoginApp';
+import CRUD from './components/CrudApp';
 import './App.css';
 
 console.log("aaaaaaaaaa");
