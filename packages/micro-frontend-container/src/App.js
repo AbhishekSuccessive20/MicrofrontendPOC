@@ -14,7 +14,7 @@ const App = () => {
       <Switch>
         <Route path ='/login'>
           <div className= "service1__wrapper">
-            <h3>Service 1 component</h3>
+            <h3>Service  component</h3>
               <Login /> 
           </div>
         </Route>
